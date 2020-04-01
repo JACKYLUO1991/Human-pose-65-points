@@ -4,7 +4,8 @@
 pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI; (on windows 10)
 2. How to evaluate algorithm? Please refer to coco challenge. An evaluation scheme for our dataset is being designed!!!
 
-## Thanks
+## Thanks RSN by Megvii-Face++
+```
 @misc{cai2020learning,
     title={Learning Delicate Local Representations for Multi-Person Pose Estimation},
     author={Yuanhao Cai and Zhicheng Wang and Zhengxiong Luo and Binyi Yin and Angang Du and Haoqian Wang and Xinyu Zhou and Erjin Zhou and Xiangyu Zhang and Jian Sun},
@@ -13,3 +14,4 @@ pip install git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonA
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
+```
